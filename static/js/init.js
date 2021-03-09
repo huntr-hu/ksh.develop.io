@@ -1,7 +1,7 @@
 _initConfig = 
 {
 	'appContainerId': 'appPriceIndex',
-	'xlsxFilePath': './data/PIC_input.xlsx', // https://ksh-io.now.sh/data/PIC_input.xlsx
+	'xlsxFilePath': 'https://huntr-hu.github.io/ksh.develop.io/data/PIC_input.xlsx', // https://ksh-io.now.sh/data/PIC_input.xlsx
 	'moreInfoLink': 'http://www.ksh.hu/arak',
 };
 
